@@ -2,8 +2,15 @@ window.axios = require('axios');
 window.fuse = require('fuse.js');
 window.Vue = require('vue');
 
+
 import Search from './components/Search.vue';
+import ContactMe from './components/ContactMe.vue';
 import hljs from 'highlight.js/lib/highlight';
+import VueToast from 'vue-toast-notification';
+import 'vue-toast-notification/dist/theme-default.css';
+
+Vue.use(VueToast);
+
 
 // Syntax highlighting
 hljs.registerLanguage('bash', require('highlight.js/lib/languages/bash'));
@@ -28,3 +35,11 @@ new Vue({
     },
 }).$mount('#vue-search');
 
+
+
+
+new Vue({
+    components:{
+        ContactMe
+    }
+}).$mount('#main');
