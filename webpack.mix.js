@@ -16,9 +16,13 @@ mix.js('source/_assets/js/main.js', 'js')
             require('tailwindcss'),
         ],
     })
-    .purgeCss({
-        content: ['source/**/*.html', 'source/**/*.md', 'source/**/*.js', 'source/**/*.php', 'source/**/*.vue'],
-        whitelistPatterns: [/language/, /hljs/, /mce/],
-    })
+    // .purgeCss({
+    //     content: ['source/**/*.html', 'source/**/*.md', 'source/**/*.js', 'source/**/*.php', 'source/**/*.vue'],
+    //     whitelistPatterns: [/language/, /hljs/, /mce/],
+    // })
     .sourceMaps()
     .version();
+
+
+
+mix.disableNotifications();
