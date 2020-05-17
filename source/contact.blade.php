@@ -62,6 +62,10 @@
             ></textarea>
         </div>
 
+        <div style="position: absolute; left: -5000px;">
+            <input type="checkbox" name="ultimate_peach_pinstriped_dishwasher" v-model="ultimate_peach_pinstriped_dishwasher" tabindex="-1" autocomplete="no">
+        </div>
+
         <div class="flex justify-end w-full">
             <input
                 @click="sendTheMessage"

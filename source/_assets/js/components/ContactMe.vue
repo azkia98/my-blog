@@ -1,4 +1,3 @@
-
 <script>
 import axios from "axios";
 export default {
@@ -7,16 +6,21 @@ export default {
             name: null,
             email: null,
             message: null,
-            isSuccessNotificationActive: false
+            ultimate_peach_pinstriped_dishwasher: null
         };
     },
     methods: {
         sendTheMessage() {
             const config = {
                 headers: {
-                    Accept: "application/json"
+                    Accept: "application/json",
                 }
             };
+
+            // console.log(this.ultimate_peach_pinstriped_dishwasher)
+
+            if(this.ultimate_peach_pinstriped_dishwasher == false)
+                this.ultimate_peach_pinstriped_dishwasher = true;
 
             axios
                 .post(
@@ -24,7 +28,8 @@ export default {
                     {
                         name: this.name,
                         email: this.email,
-                        message: this.message
+                        message: this.message,
+                        ultimate_peach_pinstriped_dishwasher: this.ultimate_peach_pinstriped_dishwasher
                     },
                     config
                 )
