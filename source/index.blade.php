@@ -29,7 +29,9 @@
         @endif
     @endforeach
 
-    @include('_components.email-me')
+    {{-- @include('_components.email-me') --}}
+
+    <hr>
 
     @foreach ($posts->where('featured', false)->take(6)->chunk(2) as $row)
         <div class="flex flex-col md:flex-row md:-mx-6">
