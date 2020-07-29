@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Mahdi Ebrahimi</title>
+    <title>Mahdi Ebrahimi Blog</title>
     <link href="https://my-jigsaw-blog.com" />
     <link type="application/atom+xml" rel="self" href="https://my-jigsaw-blog.com/blog/feed.atom" />
-    <updated>2020-07-29T18:01:55+00:00</updated>
+    <updated>2020-07-29T18:35:48+00:00</updated>
     <id>https://my-jigsaw-blog.com/blog/feed.atom</id>
     <author>
-        <name>Author Name</name>
+        <name>Mahdi Ebrahimi</name>
     </author>
                 <entry>
     <id>https://my-jigsaw-blog.com/blog/data-structures-and-algorithms</id>
