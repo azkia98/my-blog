@@ -2,52 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
   <loc>https://my-jigsaw-blog.com/blog/feed.atom</loc>
-  <lastmod>2020-07-09T17:47:43+00:00</lastmod>
+  <lastmod>2020-07-29T17:53:40+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://my-jigsaw-blog.com/blog/data-structures-and-algorithms</loc>
-  <lastmod>2020-07-09T17:47:43+00:00</lastmod>
-  <changefreq>daily</changefreq>
- </url>
- <url>
-  <loc>https://my-jigsaw-blog.com/blog/getting-started</loc>
-  <lastmod>2020-07-09T17:47:43+00:00</lastmod>
+  <lastmod>2020-07-29T17:53:40+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://my-jigsaw-blog.com</loc>
-  <lastmod>2020-07-09T17:47:43+00:00</lastmod>
+  <lastmod>2020-07-29T17:53:40+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://my-jigsaw-blog.com/blog</loc>
-  <lastmod>2020-07-09T17:47:43+00:00</lastmod>
+  <lastmod>2020-07-29T17:53:40+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://my-jigsaw-blog.com/blog/categories/feature</loc>
-  <lastmod>2020-07-09T17:47:43+00:00</lastmod>
+  <lastmod>2020-07-29T17:53:40+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://my-jigsaw-blog.com/blog/categories/configuration</loc>
-  <lastmod>2020-07-09T17:47:43+00:00</lastmod>
+  <lastmod>2020-07-29T17:53:40+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://my-jigsaw-blog.com/blog/categories/books</loc>
-  <lastmod>2020-07-09T17:47:43+00:00</lastmod>
+  <lastmod>2020-07-29T17:53:40+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://my-jigsaw-blog.com/about</loc>
-  <lastmod>2020-07-09T17:47:43+00:00</lastmod>
+  <lastmod>2020-07-29T17:53:40+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://my-jigsaw-blog.com/contact</loc>
-  <lastmod>2020-07-09T17:47:43+00:00</lastmod>
+  <lastmod>2020-07-29T17:53:40+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
 </urlset>
