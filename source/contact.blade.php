@@ -11,7 +11,7 @@
 <h1>Contact</h1>
 
 <p class="mb-8">
-     You are welcome to send me a message XD.
+     You are welcome to send me message XD.
 </p>
 
 
