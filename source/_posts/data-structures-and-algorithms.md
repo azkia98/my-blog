@@ -2,9 +2,10 @@
 extends: _layouts.post
 section: content
 title: PHP 7 Data Structures and Algorithms Book
+cover_image: /assets/img/post-cover-image-1.png
 date: 2018-12-25
 description: If you are a PHP developer and you don't have mathematical background I think this book can be one of those useable books.
-featured: false
+featured: true
 categories: [books]
 ---
 
