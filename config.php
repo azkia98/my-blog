@@ -5,9 +5,9 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Mahdi Ebrahimi',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
-    'siteAuthor' => 'Author Name',
+    'siteName' => 'Mahdi Ebrahimi Blog',
+    'siteDescription' => 'Mahdi Ebrahimi weblog',
+    'siteAuthor' => 'Mahdi Ebrahimi',
 
     // collections
     'collections' => [
